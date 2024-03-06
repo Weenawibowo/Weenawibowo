@@ -21,7 +21,7 @@ I am currently a second year Computer Science student at UBC Vancouver. During m
 - (more to come)
 ```
 
-My website can be found [Portfolio](https://weenawibowo.netlify.app/)!
+My portfolio can be found [here](https://weenawibowo.netlify.app/)!
 
 `Talk again soon!`
 
