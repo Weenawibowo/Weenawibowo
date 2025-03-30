@@ -7,21 +7,7 @@ Welcome to my <b>GitHub account!<b>
 
 I am currently a third year Computer Science student at UBC Vancouver. During my free time, I like to cook, watch animes/TV series, or go out for a walk. 
 
-# Languages I know: 
-```
-- HTML
-- CSS
-- JavaScript
-- React
-- Node.js
-- Python 
-- Java
-- C++
-- C
-- (more to come)
-```
-
-My portfolio can be found [here](https://weenawibowo.netlify.app/)!
+My portfolio can be found [here]([https://weenawibowo.netlify.app/](https://weenawibowo.github.io/portfolio2024/))!
 
 `Talk again soon!`
 
